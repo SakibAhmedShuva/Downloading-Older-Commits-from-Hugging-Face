@@ -102,7 +102,3 @@ Alternatively, open an issue to discuss the changes you'd like to propose.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. <!-- Make sure you add a LICENSE file (e.g., MIT) -->
-
-## Author
-
-*   **Sakib Ahmed Shuva** - [GitHub Profile](https://github.com/SakibAhmedShuva)
